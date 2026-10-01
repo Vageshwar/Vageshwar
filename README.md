@@ -41,6 +41,14 @@
 | 🎵 [**Blank Player**](https://github.com/Vageshwar/blank-player) | Modular Discord music bot with queues and playback controls | discord.js |
 | 📘 [**Claude Certification Prep**](https://github.com/Vageshwar/claude-certification-prep) | Step-by-step TypeScript boilerplate for learning agentic development with the Anthropic SDK | TypeScript · Anthropic SDK |
 
+### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [I Paid $125 for the Claude CCDV-F Exam. Here's How to Pass It First Time](https://blog.vageshwar.dev/how-to-pass-claude-certified-developer-ccdv-f)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ More at [blog.vageshwar.dev](https://blog.vageshwar.dev/)
+
 ### Creator work
 
 - 📺 [**BLANK GUY**](https://www.youtube.com/@blank_guy28) — stick-man explainer videos in Hindi

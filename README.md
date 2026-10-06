@@ -44,6 +44,7 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LSM Tree vs B-Tree: Why Write-Heavy Systems Skip the B-Tree](https://blog.vageshwar.dev/lsm-tree-vs-b-tree)
 - [I Paid $125 for the Claude CCDV-F Exam. Here&#39;s How to Pass It First Time](https://blog.vageshwar.dev/how-to-pass-claude-certified-developer-ccdv-f)
 <!-- BLOG-POST-LIST:END -->
 
